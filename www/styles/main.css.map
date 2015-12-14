@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACH,IAAI,EAAC,0BAAsB;EAC3B,KAAK,ECDS,IAAI;;ADIlB,MAAG;EACD,MAAM,ECiBK,CAAC;EDhBZ,OAAO,ECgBI,CAAC;EDff,WAAW,ECEO,GAAQ;EDDvB,UAAU,EAAE,IAAI;EAElB,SAAG;IAAE,OAAO,EAAE,YAAY;IACxB,WAAE;MACA,OAAO,EAAE,KAAK;MACd,OAAO,EAAE,QAAQ;MACjB,eAAe,EAAE,IAAI;MACxB,SAAS,ECLK,IAAI;MDMlB,UAAU,ECXN,GAAG;;ADgBV,EAAG;EACF,SAAS,EAAE,IAAI;;AEpBhB,QAAQ;EACP,KAAK,EAJK,KAAK",
+"sources": ["../../app/sass/global/_basic.scss","../../app/sass/global/_modules.scss","../../app/sass/global/_layout.scss"],
+"names": [],
+"file": "main.css"
+}

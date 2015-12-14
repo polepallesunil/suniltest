@@ -1,0 +1,25 @@
+﻿body {
+  font:100% $base-font-family;
+  color: $primary-color;
+}
+nav {
+  ul {
+    margin: $padding-zero;
+    padding: $padding-zero;
+	font-weight: $base-font-weight;
+    list-style: none; 
+
+  li { display: inline-block; 
+    a {
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none;
+	  font-size : $base-font-size;
+	  font-wight: $bold;
+      }
+    }
+  }
+}
+h1 {
+	font-size: 21px;
+	}
